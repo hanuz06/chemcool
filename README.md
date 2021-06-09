@@ -3,6 +3,9 @@
 A chemistry learning portal. Users can learn everything about chemistry, complete tasks, answers quizes, as well as chat in groups and play a game.
 The project contains backend side. Worked on chat application.
 
+## REST endpoints testing for chat application
+!["REST endpoints testing for chat application"](/assets/rest-in-action.gif)
+
 ## Downloading the project
 
 Fork and clone this repo.
